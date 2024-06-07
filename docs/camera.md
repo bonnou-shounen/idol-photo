@@ -1,4 +1,4 @@
-[目次](_toc.md)
+[目次](toc.md)
 
 - カメラ: Canon EOS 5D MarkIII
 - 標準: Canon EF24-70mm F4L IS USM

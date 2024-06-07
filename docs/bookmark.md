@@ -1,4 +1,4 @@
-[目次](_toc.md)
+[目次](toc.md)
 
 - [idrip](https://x.com/search?f=live&q=from%3Ameisou_shounen%20%23idrip)
 - [ARIStoCRAT](https://x.com/search?f=live&q=from%3Ameisou_shounen%20%23ARIStoCRAT)
