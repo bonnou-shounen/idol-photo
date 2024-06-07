@@ -2,4 +2,6 @@
 
 ご指摘などは[X (Twitter)](https://x.com/meisou_shounen)でのリプライやDM、または bonnou.shounen あっと じーめいる にお願いします。
 
+
+
 [いろいろ](toc.md)
