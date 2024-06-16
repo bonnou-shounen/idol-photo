@@ -7,6 +7,7 @@
 - [idrip](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23idrip)
 - [アポストロフィ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%A2%E3%83%9D%E3%82%B9%E3%83%88%E3%83%AD%E3%83%95%E3%82%A3)
 - [あまりりす](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%82%E3%81%BE%E3%82%8A%E3%82%8A%E3%81%99)
+- [Amulet A Mute](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%82%E3%82%80%E3%81%82%E3%82%80)
 - [ARIStoCRAT](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23ARIStoCRAT)
 - [アルカナビス](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%8A%E3%83%93%E3%82%B9)
 - [あわこい](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%82%E3%82%8F%E3%81%93%E3%81%84)
