@@ -36,7 +36,7 @@
 - [酒井穂乃香](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E9%85%92%E4%BA%95%E7%A9%82%E4%B9%83%E9%A6%99)
 - [SEAF](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23SEAF)
 - [シャルロット](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%AD%E3%83%83%E3%83%88)
-- [スーパーマカロニサラダ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%B9%E3%83%91%E3%83%9E%E3%82%AB)
+- [スーパーマカロニサラダ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9E%E3%82%AB%E3%83%AD%E3%83%8B%E3%82%B5%E3%83%A9%E3%83%80+OR+%23%E3%82%B9%E3%83%91%E3%83%9E%E3%82%AB)
 - [スターリットストーリー](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%AA%E3%83%83%E3%83%88%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC)
 - [青藍ピリオド](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E8%97%8D%E3%83%94%E3%83%AA)
 - [瀬口こころ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E7%80%AC%E5%8F%A3%E3%81%93%E3%81%93%E3%82%8D)
