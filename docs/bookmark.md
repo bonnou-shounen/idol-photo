@@ -30,6 +30,7 @@
 - [CURTiA](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23CURTiA)
 - [Caress Van End](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%AB%E3%83%AC%E3%83%90%E3%83%B3)
 - [CRNT](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23CRNT)
+- [気まぐれ☆モンスターGIRLS](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%90%E3%82%8C%E3%82%82%E3%82%93)
 - [キミイロプロジェクト](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%AD%E3%83%9F%E3%82%A4%E3%83%AD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88)
 - [Cassie Te Light](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%AD%E3%83%A3%E3%82%B7%E3%83%86%E3%83%A9)
 - [クリームソーダ。](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%AF%E3%83%AA%E3%82%BD)
