@@ -50,6 +50,7 @@
 - [瀬口こころ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E7%80%AC%E5%8F%A3%E3%81%93%E3%81%93%E3%82%8D)
 - <span id="ta">た</span>
 - [たまプリ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%9F%E3%81%BE%E3%83%97%E3%83%AA+OR+%23%E3%81%9F%E3%81%BE%E3%81%B7%E3%82%8A)
+- [ちぇガッツ!](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%A1%E3%81%87%E3%82%AC%E3%83%83%E3%83%84)
 - [天泣](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E5%A4%A9%E6%B3%A3)
 - [天空のシラバス](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E5%A4%A9%E7%A9%BA%E3%81%AE%E3%82%B7%E3%83%A9%E3%83%90%E3%82%B9)
 - [天使突抜ニ読ミ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%84%E3%82%AD%E3%83%A8%E3%83%9F)
