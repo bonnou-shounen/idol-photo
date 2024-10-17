@@ -75,7 +75,7 @@
 - [ひめもすオーケストラ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%B2%E3%82%81%E3%82%AA%E3%82%B1+OR+%23%E3%81%B2%E3%82%81%E3%82%82%E3%81%99%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%88%E3%83%A9)
 - [100℃の世界](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23100%E5%BA%A6%E3%81%AE%E4%B8%96%E7%95%8C)
 - [ヒロインの心](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%AE%E5%BF%83)
-- <a id="fu" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23PHiZZ">PHiZZ</a>
+- <a id="hu" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23PHiZZ">PHiZZ</a>
 - [プエラの絶対値](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%97%E3%82%A8%E3%83%A9%E3%81%AE%E7%B5%B6%E5%AF%BE%E5%80%A4)
 - [ぶっとび! パンデミック](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%B6%E3%81%A3%E3%83%91%E3%83%B3)
 - [Planet Merry](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%97%E3%83%A9%E3%83%A1%E3%83%AA)
