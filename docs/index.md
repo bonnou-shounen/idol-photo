@@ -1,15 +1,61 @@
 [煩悩少年📷️](about.md)
 
-[あ](#a)  [い](#i)  [う](#u)  [え](#e)  [お](#o)
-[か](#ka) [き](#ki) [く](#ku) [け](#ke) [こ](#ko)<br/>
-[さ](#sa) [し](#si) [す](#su) [せ](#se) [そ](#so)
-[た](#ta) [ち](#ti) [つ](#tu) [て](#te) [と](#to)<br/>
-[な](#na) [に](#ni) [ぬ](#nu) [ね](#ne) [の](#no)
-[は](#ha) [ひ](#hi) [ふ](#hu) [へ](#he) [ほ](#ho)<br/>
-[ま](#ma) [み](#mi) [む](#mu) [め](#me) [も](#mo)
-[や](#ya) [ゆ](#yu) [よ](#yo)<br/>
-[ら](#ra) [り](#ri) [る](#ru) [れ](#re) [ろ](#ro)
-[わ](#wa)
+<table><tr>
+<td>[あ](#a)</td>
+<td>[か](#ka)</td>
+<td>[さ](#sa)</td>
+<td>[た](#ta)</td>
+<td>[な](#na)</td>
+<td>[は](#ha)</td>
+<td>[ま](#ma)</td>
+<td>[や](#ya)</td>
+<td>[ら](#ra)</td>
+<td>[わ](#wa)</td>
+</tr><tr>
+<td>[い](#i)</td>
+<td>[き](#ki)</td>
+<td>[し](#si)</td>
+<td>[ち](#ti)</td>
+<td>[に](#ni)</td>
+<td>[ひ](#hi)</td>
+<td>[み](#mi)</td>
+<td></td>
+<td>[り](#ri)</td>
+<td></td>
+</tr><tr>
+<td>[う](#u)</td>
+<td>[く](#ku)</td>
+<td>[す](#su)</td>
+<td>[つ](#tu)</td>
+<td>[ぬ](#nu)</td>
+<td>[ふ](#hu)</td>
+<td>[む](#mu)</td>
+<td>[ゆ](#yu)/td>
+<td>[る](#ru)</td>
+<td>></td>
+</tr><tr>
+<td>[え](#e)</td>
+<td>[け](#ke)</td>
+<td>[せ](#se)</td>
+<td>[て](#te)</td>
+<td>[ね](#ne)</td>
+<td>[へ](#he)</td>
+<td>[め](#me)</td>
+<td></td>
+<td>[れ](#re)</td>
+<td></td>
+</tr><tr>
+<td>[お](#o)</td>
+<td>[こ](#ko)</td>
+<td>[そ](#so)</td>
+<td>[と](#to)</td>
+<td>[の](#no)</td>
+<td>[ほ](#ho)</td>
+<td>[も](#mo)</td>
+<td>[よ](#yo)</td>
+<td>[ろ](#ro)</td>
+<td></td>
+</tr></table>
 
 - <a id="a" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A%E3%82%A2%E3%82%A4%E3%83%93%E3%83%BC">アイビー</a>
 - [あいでぃーる!!](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%82%E3%81%84%E3%81%A7%E3%81%83%E3%83%BC%E3%82%8B)
