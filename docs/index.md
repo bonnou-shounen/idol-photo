@@ -42,11 +42,13 @@
 - [コノサキモ隣ニ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%B3%E3%83%8E%E3%82%B5%E3%82%AD%E3%83%A2%E9%9A%A3%E3%83%8B)
 - [コバルトブルーは白昼夢](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%B3%E3%83%90%E3%83%AB%E3%83%88%E3%83%96%E3%83%AB%E3%83%BC%E3%81%AF%E7%99%BD%E6%98%BC%E5%A4%A2)
 - [comma,](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23comma)
-- <a id="sa" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E9%85%92%E4%BA%95%E7%A9%82%E4%B9%83%E9%A6%99">酒井穂乃香</a>
+- <a id="sa" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%AB%E3%82%AF%E3%83%88%E3%82%A5%E3%83%9F%E3%83%BC+OR+%23%E3%83%AB%E3%82%AF%E3%83%88%E3%82%A5%E3%83%9F">再生のルクトゥミー</a>
+- [酒井穂乃香](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E9%85%92%E4%BA%95%E7%A9%82%E4%B9%83%E9%A6%99)
 - <a id="si" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23SEAF">SEAF</a>
 - [紫月はう](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E7%B4%AB%E6%9C%88%E3%81%AF%E3%81%86)
 - [シャルロット](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%AD%E3%83%83%E3%83%88)
-- <a id="su" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%B9%E3%83%91%E3%83%9E%E3%82%AB+OR+%23%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9E%E3%82%AB%E3%83%AD%E3%83%8B%E3%82%B5%E3%83%A9%E3%83%80">スーパーマカロニサラダ</a>
+- <a id="su" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E6%B0%B4%E9%88%B4%E9%81%A5">水鈴遥</a>
+- [スーパーマカロニサラダ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%B9%E3%83%91%E3%83%9E%E3%82%AB+OR+%23%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9E%E3%82%AB%E3%83%AD%E3%83%8B%E3%82%B5%E3%83%A9%E3%83%80)
 - [スターリットストーリー](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%AA%E3%83%83%E3%83%88%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC)
 - <a id="se" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E8%97%8D%E3%83%94%E3%83%AA">青藍ピリオド</a>
 - [瀬口こころ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E7%80%AC%E5%8F%A3%E3%81%93%E3%81%93%E3%82%8D)
@@ -68,6 +70,7 @@
 - <a id="ha" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%8F%E3%83%88%E9%9B%BB">ハートの心電図</a>
 - [PAiDA](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23PAiDA)
 - [Hi-Fi GIRLs PROJECT](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23HiFiGL)
+- [パステルホログラム](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%91%E3%82%B9%E3%83%86%E3%83%AB%E3%83%9B%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0)
 - [花ノぷりんせす](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E8%8A%B1%E3%81%B7%E3%82%8A)
 - [HALO PALLETE](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%8F%E3%83%AD%E3%83%91%E3%83%AC)
 - <a id="hi" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23BeJack">Be Jack</a>
@@ -102,7 +105,8 @@
 - [湯上り茶の間](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E6%B9%AF%E4%B8%8A%E3%82%8A%E8%8C%B6%E3%81%AE%E9%96%93)
 - <a id="yu" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E5%A4%A2%E3%82%A2%E3%83%89%E3%82%B7%E3%83%88%E3%83%AD%E3%83%B3">夢アドシトロン</a>
 - <a id="yo" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%88%E3%82%8B%E3%82%81%E3%82%8B">夜とメルク</a>
-- <a id="ra" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23Lanan">Lanan</a>
+- <a id="ra" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%D0%AFanaB">ЯanaB</a>
+- [Lanan](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23Lanan)
 - [LOVE IZ DOLL](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23LOVE_IZ_DOLL)
 - <a id="ri" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%AA%E3%83%88%E3%82%AF%E3%83%ADxxx">リットクロスxxx</a>
 - [ripple link](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23ripplelink)
