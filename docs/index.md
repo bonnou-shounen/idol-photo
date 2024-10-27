@@ -104,6 +104,7 @@
 - [プリズムハート](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%97%E3%83%AA%E3%82%BA%E3%83%A0%E3%83%8F%E3%83%BC%E3%83%88)
 - [ブルーなままで](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%96%E3%83%AB%E3%83%BC%E3%81%AA%E3%81%BE%E3%81%BE%E3%81%A7)
 - [ブルベア](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%96%E3%83%AB%E3%83%99%E3%82%A2%E6%92%AE%E5%BD%B1%E9%83%A8)
+- [フレッシュ撮影会](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%95%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A5%E6%92%AE%E5%BD%B1%E4%BC%9A)
 - [Blossom Garden](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23BlossomGarden)
 - <a id="he" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%99%E3%83%93%E3%82%B9%E3%83%91">Baby inspire</a>
 - <a id="ho" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%BD%E3%81%91%E3%81%A3%E3%81%A8%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0">ぽけっとファントム</a>
@@ -123,7 +124,6 @@
 - <a id="mo" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23MORE%E3%82%92%E3%82%82%E3%81%A3%E3%81%A8%E5%BA%83%E3%82%81%E3%81%9F%E3%81%84">MORE\*</a>
 - [ももいろプロジェクト](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%82%E3%82%82%E3%81%84%E3%82%8D%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88)
 - <a id="ya" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23YMTK">YUM!-TUK!</a>
-- [湯上り茶の間](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E6%B9%AF%E4%B8%8A%E3%82%8A%E8%8C%B6%E3%81%AE%E9%96%93)
 - <a id="yu" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E6%B9%AF%E4%B8%8A%E3%82%8A%E8%8C%B6%E3%81%AE%E9%96%93">湯上り茶の間</a>
 - [夢アドCiTRON](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E5%A4%A2%E3%82%A2%E3%83%89%E3%82%B7%E3%83%88%E3%83%AD%E3%83%B3)
 - <a id="yo" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%88%E3%82%8B%E3%82%81%E3%82%8B">夜とメルク</a>
