@@ -58,7 +58,8 @@
 - [水鈴遥](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E6%B0%B4%E9%88%B4%E9%81%A5)
 - [スーパーマカロニサラダ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9E%E3%82%AB%E3%83%AD%E3%83%8B%E3%82%B5%E3%83%A9%E3%83%80+OR+%23%E3%82%B9%E3%83%91%E3%83%9E%E3%82%AB)
 - [スターリットストーリー](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%AA%E3%83%83%E3%83%88%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC)
-- <a id="se" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E8%97%8D%E3%83%94%E3%83%AA">青藍ピリオド</a>
+- <a id="se" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E6%88%90%E5%BE%B3%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B9OG">成徳ロマンスOG</a>
+- [青藍ピリオド](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E8%97%8D%E3%83%94%E3%83%AA)
 - [瀬口こころ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E7%80%AC%E5%8F%A3%E3%81%93%E3%81%93%E3%82%8D)
 - <span id="so"></span><a id="ta" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%9F%E3%81%BE%E3%83%97%E3%83%AA+OR+%23%E3%81%9F%E3%81%BE%E3%81%B7%E3%82%8A">たまプリ</a>
 - <a id="ti" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23CHEERFUL">CHEERFUL</a>
@@ -87,8 +88,10 @@
 - [ハレノチ×ハレーション](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%8F%E3%83%AC%E3%83%8F%E3%83%AC)
 - [陽乃ほのか(はれのほのか)](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E9%99%BD%E4%B9%83%E3%81%BB%E3%81%AE%E3%81%8B)
 - [HALO PALLETE](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%8F%E3%83%AD%E3%83%91%E3%83%AC)
-- <a id="hi" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%94%E3%82%B3%E3%83%AC%E3%83%9C">ピコレボ</a>
+- <a id="hi" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%93%E3%83%BC%E3%83%90%E3%82%A4%E3%83%A6%E3%83%BC">ビーバイユー</a>
+- [ピコレボ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%94%E3%82%B3%E3%83%AC%E3%83%9C)
 - [Be Jack](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23BeJack)
+- [ヒップバーン](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%92%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%E3%83%B3)
 - [ヒトノユメ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%92%E3%83%88%E3%83%8E%E3%83%A6%E3%83%A1)
 - [ビビきたッ!!](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%93%E3%83%93%E3%81%8D%E3%81%9F%E3%83%83)
 - [ひめもすオーケストラ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%B2%E3%82%81%E3%82%82%E3%81%99%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%88%E3%83%A9+OR+%23%E3%81%B2%E3%82%81%E3%82%AA%E3%82%B1)
