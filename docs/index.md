@@ -103,6 +103,7 @@
 - [Blossom Garden](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23BlossomGarden)
 - <a id="he" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%99%E3%83%93%E3%82%B9%E3%83%91">Baby inspire</a>
 - <a id="ho" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%BD%E3%81%91%E3%81%A3%E3%81%A8%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0">ぽけっとファントム</a>
+- [星屑ラビリンス](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E6%98%9F%E5%B1%91%E3%83%A9%E3%83%93%E3%83%AA%E3%83%B3%E3%82%B9)
 - [bonbon ange](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23bonbonange)
 - <a id="ma" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%BE%E3%81%84%E3%81%BF%E3%83%BC%E6%92%AE%E5%BD%B1%E9%83%A8+OR+%23%E3%81%BE%E3%81%84%E3%81%BF%E3%83%BC">MyφMe(まいふぁいみー)</a>
 - [MAGICAL SPEC](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%9E%E3%82%B8%E3%82%B9%E3%83%9A)
