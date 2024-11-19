@@ -1,6 +1,6 @@
-[目次](toc.md)
+- [グループ別インデックス](index.md)
 
-### 誰?
+### Who
 
 - DDカメコです。主に五反田の、撮可のグループ多めのライブに現れます。
 - ご指摘などはXの meisou\_shounen 、またはGMailの bonnou.shounen にお願いします。
