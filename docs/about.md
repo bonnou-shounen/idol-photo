@@ -15,8 +15,7 @@
 
 - Canon EOS 5D MarkIII (EOL)
 - Canon EF70-300mm F4-5.6 IS II USM
-
-- Sony Alpha7 iii
+- Sony α7 iii
 - Sony FE 24-70mm F2.8 GM II
 
 これら以外で撮ったものも掲載しています。
