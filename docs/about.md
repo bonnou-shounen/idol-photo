@@ -1,6 +1,6 @@
-- [グループ別インデックス](index.md)
+[グループ別インデックス](index.md)
 
-### Who
+### 煩悩少年
 
 - DDカメコです。主に五反田の、撮可のグループ多めのライブに現れます。
 - ご指摘などはXの meisou\_shounen 、またはGMailの bonnou.shounen にお願いします。
