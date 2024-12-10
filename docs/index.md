@@ -35,8 +35,10 @@
 - [CURTiA](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23CURTiA)
 - [Caress Van End](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%AB%E3%83%AC%E3%83%90%E3%83%B3)
 - [CRNT(カレント)](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23CRNT)
-- <a id="ki" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%90%E3%82%8C%E3%82%82%E3%82%93">気まぐれ☆モンスターGIRLS</a>
+- <a id="ki" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E6%93%AC%E4%BA%BA%E5%8C%96%E3%81%AB%E3%82%83%E3%82%93%E3%81%9F+OR+%23%E5%B8%82%E3%83%B6%E8%B0%B7%E5%87%AA%E7%B4%97">擬人化にゃんた</a>
+- [気まぐれ☆モンスターGIRLS](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%90%E3%82%8C%E3%82%82%E3%82%93)
 - [キミイロプロジェクト](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%AD%E3%83%9F%E3%82%A4%E3%83%AD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88)
+- [キミと青春をもっと](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%AD%E3%83%9F%E9%9D%92)
 - [Cassie Te Light](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%AD%E3%83%A3%E3%82%B7%E3%83%86%E3%83%A9)
 - <a id="ku" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%AF%E3%83%AA%E3%82%BD">クリームソーダ。</a>
 - [Grim Assembler](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%B0%E3%83%AA%E3%83%9E%E3%82%B9)
