@@ -29,7 +29,7 @@
 - [うじゅら](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%86%E3%81%98%E3%82%85%E3%82%89)
 - <a id="e" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%88%E3%81%82%E3%82%89%E3%81%B3%E3%82%85%E3%83%BC">えあらびゅー</a>
 - [エイアイカ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%A8%E3%82%A4%E3%82%A2%E3%82%A4%E3%82%AB)
-- [Aim](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%A8%E3%82%A4%E3%83%A0)
+- [Aim](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23Aim)
 - [エウレカ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%A8%E3%82%A6%E3%83%AC%E3%82%AB)
 - [Lって何のLですか?](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23L%E3%81%AA%E3%82%93)
 - <a id="o" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%8A%E3%81%95%E3%82%93%E3%81%BD%E5%A8%98">おさんぽ娘</a>
@@ -109,7 +109,8 @@
 - [フレッシュ撮影会](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%95%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A5%E6%92%AE%E5%BD%B1%E4%BC%9A)
 - [Blossom Garden](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23BlossomGarden)
 - <a id="he" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%99%E3%83%93%E3%82%B9%E3%83%91">Baby inspire</a>
-- <a id="ho" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%BD%E3%81%91%E3%81%A3%E3%81%A8%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0">ぽけっとファントム</a>
+- <a id="ho" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%BC%E3%81%8F%E3%81%97%E3%81%AA">ぼくはまだしなない</a>
+- [ぽけっとファントム](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%BD%E3%81%91%E3%81%A3%E3%81%A8%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0)
 - [星屑ラビリンス](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E6%98%9F%E5%B1%91%E3%83%A9%E3%83%93%E3%83%AA%E3%83%B3%E3%82%B9)
 - [bonbon ange](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23bonbonange)
 - <a id="ma" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%BE%E3%81%84%E3%81%BF%E3%83%BC%E6%92%AE%E5%BD%B1%E9%83%A8+OR+%23%E3%81%BE%E3%81%84%E3%81%BF%E3%83%BC">MyφMe(まいふぁいみー)</a>
