@@ -32,16 +32,20 @@
 - [Aim](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23Aim)
 - [エウレカ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%A8%E3%82%A6%E3%83%AC%E3%82%AB)
 - [Lって何のLですか?](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23L%E3%81%AA%E3%82%93)
-- <a id="o" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%8A%E3%81%95%E3%82%93%E3%81%BD%E5%A8%98">おさんぽ娘</a>
+- [ANGEL CANDY](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%88%E3%82%93%E3%81%A7%E3%81%83%E3%83%BC)
+- <a id="o" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E6%8A%BC%E3%81%95%E3%83%9B%E3%83%88">推さぬなら推させてみようホトトギス</a>
+- [おさんぽ娘](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%8A%E3%81%95%E3%82%93%E3%81%BD%E5%A8%98)
 - <a id="ka" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%8B%E3%82%8B%E3%81%A1%E3%81%B9%E3%81%84%E3%81%A8">かるちべいと</a>
 - [CURTiA](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23CURTiA)
 - [Caress Van End](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%AB%E3%83%AC%E3%83%90%E3%83%B3)
 - [CRNT(カレント)](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23CRNT)
 - <a id="ki" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E6%93%AC%E4%BA%BA%E5%8C%96%E3%81%AB%E3%82%83%E3%82%93%E3%81%9F+OR+%23%E5%B8%82%E3%83%B6%E8%B0%B7%E5%87%AA%E7%B4%97">擬人化にゃんた</a>
-- [気まぐれ☆モンスターGIRLS](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%90%E3%82%8C%E3%82%82%E3%82%93)
+- [気まぐれ☆モンスター](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%90%E3%82%8C%E3%82%82%E3%82%93)
+- [キミイロカクテル](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%AD%E3%83%9F%E3%82%AB%E3%82%AF)
 - [キミイロプロジェクト](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%AD%E3%83%9F%E3%82%A4%E3%83%AD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88)
 - [キミと青春をもっと](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%AD%E3%83%9F%E9%9D%92)
 - [Cassie Te Light](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%AD%E3%83%A3%E3%82%B7%E3%83%86%E3%83%A9)
+- [Cutie♡Cute](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%AD%E3%83%A5%E3%83%86%E3%82%A3%E3%82%AD%E3%83%A5)
 - <a id="ku" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%AF%E3%83%AA%E3%82%BD">クリームソーダ。</a>
 - [Grim Assembler](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%B0%E3%83%AA%E3%83%9E%E3%82%B9)
 - <span id="ke"></span><a id="ko" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E5%B0%8F%E6%B3%89%E8%8A%B1%E6%81%8B">小泉花恋</a>
@@ -86,6 +90,7 @@
 - [Hi-Fi GIRLs PROJECT](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23HiFiGL)
 - [パステルホログラム](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%91%E3%82%B9%E3%83%86%E3%83%AB%E3%83%9B%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0)
 - [花ノぷりんせす](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E8%8A%B1%E3%81%B7%E3%82%8A)
+- [ハレノチ×ハレーション](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%8F%E3%83%AC%E3%83%8F%E3%83%AC)
 - [陽乃ほのか(はれのほのか)](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E9%99%BD%E4%B9%83%E3%81%BB%E3%81%AE%E3%81%8B)
 - [HALO PALLETE](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%8F%E3%83%AD%E3%83%91%E3%83%AC)
 - <a id="hi" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%93%E3%83%BC%E3%83%90%E3%82%A4%E3%83%A6%E3%83%BC">ビーバイユー</a>
@@ -101,6 +106,7 @@
 - [PHiZZ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23PHiZZ)
 - [プエラの絶対値](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%97%E3%82%A8%E3%83%A9%E3%81%AE%E7%B5%B6%E5%AF%BE%E5%80%A4)
 - [ぶっとび! パンデミック](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%B6%E3%81%A3%E3%83%91%E3%83%B3)
+- [フラップアップ⤴︎](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%95%E3%83%A9%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97)
 - [Planet Merry](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%97%E3%83%A9%E3%83%A1%E3%83%AA)
 - [Blancanie](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23Blancanie)
 - [プランクスターズ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%97%E3%83%A9%E3%83%B3%E3%82%AF%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA)
