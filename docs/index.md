@@ -100,7 +100,7 @@
 - [ヒトノユメ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%92%E3%83%88%E3%83%8E%E3%83%A6%E3%83%A1)
 - [ひめもすオーケストラ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%B2%E3%82%81%E3%82%82%E3%81%99%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%88%E3%83%A9+OR+%23%E3%81%B2%E3%82%81%E3%82%AA%E3%82%B1)
 - [100℃の世界](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23100%E5%BA%A6%E3%81%AE%E4%B8%96%E7%95%8C)
-- [HIRAETH.TOKYO](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%92%E3%83%A9%E3%82%A8%E3%82%B9+OR+%23%E3%81%88%E3%81%82%E3%82%89%E3%81%B3%E3%82%85%E3%83%BC)
+- [HIRAETH.TOKYO](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%92%E3%83%A9%E3%82%A8%E3%82%B9%E3%83%88%E3%83%BC%E3%82%AD%E3%83%A7%E3%83%BC+OR+%23%E3%81%88%E3%81%82%E3%82%89%E3%81%B3%E3%82%85%E3%83%BC)
 - [ヒロインの心](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%AE%E5%BF%83)
 - <a id="hu" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23FandL">FandL</a>
 - [PHiZZ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23PHiZZ)
