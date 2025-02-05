@@ -39,9 +39,8 @@
 - <a id="ka" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%8B%E3%82%8B%E3%81%A1%E3%81%B9%E3%81%84%E3%81%A8">かるちべいと</a>
 - [CURTiA](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23CURTiA)
 - [Caress Van End](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%AB%E3%83%AC%E3%83%90%E3%83%B3)
-- [CRNT(カレント)](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23CRNT)
 - <a id="ki" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E6%93%AC%E4%BA%BA%E5%8C%96%E3%81%AB%E3%82%83%E3%82%93%E3%81%9F+OR+%23%E5%B8%82%E3%83%B6%E8%B0%B7%E5%87%AA%E7%B4%97">擬人化にゃんた</a>
-- [気まぐれ☆モンスター](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%90%E3%82%8C%E3%82%82%E3%82%93)
+- [気まぐれモンスター](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%90%E3%82%8C%E3%82%82%E3%82%93%E5%86%99%E7%9C%9F+OR+%23%E3%81%90%E3%82%8C%E3%82%82%E3%82%93)
 - [キミイロカクテル](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%AD%E3%83%9F%E3%82%AB%E3%82%AF)
 - [キミイロプロジェクト](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%AD%E3%83%9F%E3%82%A4%E3%83%AD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88)
 - [キミと青春をもっと](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%AD%E3%83%9F%E9%9D%92)
@@ -90,8 +89,10 @@
 - <a id="ha" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%8F%E3%83%88%E9%9B%BB">ハートの心電図</a>
 - [PAiDA](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23PAiDA)
 - [Hi-Fi GIRLs PROJECT](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23HiFiGL)
+- [Vipera](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23Vipera)
 - [パステルホログラム](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%91%E3%82%B9%E3%83%86%E3%83%AB%E3%83%9B%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0)
 - [花ノぷりんせす](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E8%8A%B1%E3%81%B7%E3%82%8A)
+- [HONEY RULE](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%AF%E3%81%AB%E3%82%8B%E3%82%8B)
 - [ハレノチ×ハレーション](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%8F%E3%83%AC%E3%83%8F%E3%83%AC)
 - [陽乃ほのか(はれのほのか)](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E9%99%BD%E4%B9%83%E3%81%BB%E3%81%AE%E3%81%8B)
 - [HALO PALLETE](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%8F%E3%83%AD%E3%83%91%E3%83%AC)
@@ -104,7 +105,8 @@
 - [100℃の世界](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23100%E5%BA%A6%E3%81%AE%E4%B8%96%E7%95%8C)
 - [HIRAETH.TOKYO](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%92%E3%83%A9%E3%82%A8%E3%82%B9%E3%83%88%E3%83%BC%E3%82%AD%E3%83%A7%E3%83%BC+OR+%23%E3%81%88%E3%81%82%E3%82%89%E3%81%B3%E3%82%85%E3%83%BC)
 - [ヒロインの心](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%AE%E5%BF%83)
-- <a id="hu" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23FandL">FandL</a>
+- <a id="hu" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%B5%E3%81%81%E3%81%A3%E3%81%98">FU(D)GE</a>
+- [FandL](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23FandL)
 - [PHiZZ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23PHiZZ)
 - [プエラの絶対値](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%97%E3%82%A8%E3%83%A9%E3%81%AE%E7%B5%B6%E5%AF%BE%E5%80%A4)
 - [ぶっとび! パンデミック](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%B6%E3%81%A3%E3%83%91%E3%83%B3)
@@ -147,6 +149,7 @@
 - [ripple link](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23ripplelink)
 - [Little Echo](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%AA%E3%83%88%E3%82%A8%E3%82%B3)
 - [Reverse Tokyo](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%AA%E3%83%90%E3%82%B9%E3%83%88)
+- [リベルナント](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%AA%E3%83%99%E3%83%AB%E3%83%8A%E3%83%B3%E3%83%88+OR+%23%E3%81%8A%E3%81%95%E3%82%93%E3%81%BD%E5%A8%98)
 - [Re:INCARNATION](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%8D)
 - <a id="ru" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%AB%E3%82%AF%E3%83%88%E3%82%A5%E3%83%9F">ルクトゥーMe</a>
 - [Res♡Chu](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%8C%E3%81%99%E3%81%A1%E3%82%85%E3%83%BC)
