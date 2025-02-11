@@ -75,6 +75,7 @@
 - [天空のシラバス](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E5%A4%A9%E7%A9%BA%E3%81%AE%E3%82%B7%E3%83%A9%E3%83%90%E3%82%B9)
 - [天使突抜ニ読ミ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%84%E3%82%AD%E3%83%A8%E3%83%9F)
 - <a id="to" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%88%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89">トイランド</a>
+- [東京おとめ太鼓](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%8A%E3%81%A8%E3%82%81%E3%83%95%E3%82%A9%E3%83%88)
 - [東京遊泳ギャラクシー](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E6%9D%B1%E4%BA%AC%E9%81%8A%E6%B3%B3%E3%82%AE%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%BC)
 - [道玄坂69](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E9%81%93%E7%8E%84%E5%9D%8269)
 - [.Link](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%A9%E3%81%A3%E3%81%A8%E3%82%8A%E3%82%93%E3%81%8F)
