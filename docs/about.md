@@ -13,15 +13,20 @@
 
 ### 機材
 
-- 2025.5 〜 現在
-  - Sony α7 IV
-    - FE24-70mm F2.8 GM II
-    - FE70-200mm F2.8 GM OSS II
-- 2024.11 〜 2025.4
-  - Sony α7 III
-- 2023.7 〜 2025.1
-  - Canon EOS 5D Mark III
-    - EF24-70mm F4L IS USM
-    - EF70-300mm F4-5.6 IS II USM
+#### 2025.5 〜 現在
+
+- Sony α7 IV
+  - FE24-70mm F2.8 GM II
+  - FE70-200mm F2.8 GM OSS II
+
+#### 2024.11 〜 2025.4
+
+- Sony α7 III
+
+#### 2023.7 〜 2025.1
+
+- Canon EOS 5D Mark III
+  - EF24-70mm F4L IS USM
+  - EF70-300mm F4-5.6 IS II USM
 
 これら以外で撮ったものもあります。
