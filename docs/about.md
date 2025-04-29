@@ -13,6 +13,15 @@
 
 ### 機材
 
-- Canon EOS 5D Mark III + EF70-300mm F4-5.6 IS II USM
-- Sony α7 III + FE70-200mm F2.8 GM OSS II
-- これら以外で撮ったものも掲載しています。
+- 2025.5 〜 現在
+  - Sony α7 IV
+    - FE24-70mm F2.8 GM II
+    - FE70-200mm F2.8 GM OSS II
+- 2024.12 〜 2025.4
+  - Sony α7 III
+- 2023.1 〜 2025.1
+  - Canon EOS 5D Mark III
+    - EF24-70mm F4L IS USM
+    - EF70-300mm F4-5.6 IS II USM
+
+これら以外で撮ったものもあります。
