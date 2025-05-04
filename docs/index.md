@@ -13,6 +13,7 @@
 - [idrip](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23idrip)
 - [青山Rabness](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E9%9D%92%E3%83%A9%E3%83%93)
 - [アクアウィステリア](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%A2%E3%82%AF%E3%82%A2%E3%82%A6%E3%82%A3%E3%82%B9%E3%83%86%E3%83%AA%E3%82%A2+OR+%23%E3%82%A2%E3%82%AF%E3%82%A6%E3%82%A3%E3%82%B9)
+- [あでぃくと](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%82%E3%81%A7%E3%81%83%E3%81%8F%E3%81%A8)
 - [アポストロフィ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%A2%E3%83%9D%E3%82%B9%E3%83%88%E3%83%AD%E3%83%95%E3%82%A3)
 - [あまりりす](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%82%E3%81%BE%E3%82%8A%E3%82%8A%E3%81%99)
 - [Amulet A Mute](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%82%E3%82%80%E3%81%82%E3%82%80)
