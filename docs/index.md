@@ -106,6 +106,7 @@
 - [HALO PALLETE](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%8F%E3%83%AD%E3%83%91%E3%83%AC)
 - [ぱんぷるぽっぷ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%B1%E3%82%93%E3%81%B7%E3%82%8B%E3%81%BD%E3%81%A3%E3%81%B7)
 - <a id="hi" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%93%E3%83%BC%E3%83%90%E3%82%A4%E3%83%A6%E3%83%BC">ビーバイユー</a>
+- [Be!But Because](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23BeButBecause)
 - [Beloved](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%B3%E3%83%BC%E3%82%89%E3%81%B6%E3%81%B5%E3%81%89%E3%81%A8)
 - [Be Jack](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23BeJack)
 - [ヒップバーン](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%92%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%E3%83%B3)
@@ -167,6 +168,7 @@
 - [Re:INCARNATION](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%8D)
 - [凛としたすずらん](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E5%87%9B%E3%81%A8%E3%81%97%E3%81%9F%E3%81%99%E3%81%9A%E3%82%89%E3%82%93)
 - <a id="ru" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%AB%E3%82%AF%E3%83%88%E3%82%A5%E3%83%9F">ルクトゥーMe</a>
+- [Luminous Fortune](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23LuminousFortune)
 - [Res♡Chu](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%8C%E3%81%99%E3%81%A1%E3%82%85%E3%83%BC)
 - [LONDON BLUE](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%AD%E3%83%B3%E3%83%96%E3%83%AB)
 - <a id="re" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23LEVEL7">LEVEL7</a>
