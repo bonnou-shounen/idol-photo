@@ -160,6 +160,7 @@
 - [LOVE IZ DOLL](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23LOVE_IZ_DOLL)
 - <a id="ri" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%AA%E3%82%A2%E3%82%B9%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%96">♮リアスクライブ</a>
 - [RiKKYY](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23RiKKYY)
+- [LIZZ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23LIZZ)
 - [リットクロスxxx](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%AA%E3%83%88%E3%82%AF%E3%83%ADxxx)
 - [ripple link](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23ripplelink)
 - [Little Echo](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%AA%E3%83%88%E3%82%A8%E3%82%B3)
