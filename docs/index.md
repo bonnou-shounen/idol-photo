@@ -7,7 +7,8 @@
 | [え](#e) | [け](#ke) | [せ](#se) | [て](#te) | [ね](#ne) | [へ](#he) | [め](#me) |           | [れ](#re) |           |
 | [お](#o) | [こ](#ko) | [そ](#so) | [と](#to) | [の](#no) | [ほ](#ho) | [も](#mo) | [よ](#yo) | [ろ](#ro) |           |
 
-- <a id="a" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%82%E3%81%84%E3%81%A7%E3%81%83%E3%83%BC%E3%82%8B">あいでぃーる!!</a>
+- <a id="a" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%A2%E3%82%A4%E3%82%A2%E3%82%A4%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC+OR+%23%E3%81%82%E3%81%84%E3%81%A6%E3%81%83%E3%81%8C">アイアイタイガー</a>
+- [あいでぃーる!!](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%82%E3%81%84%E3%81%A7%E3%81%83%E3%83%BC%E3%82%8B)
 - [+idolist](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AA%E3%82%B9%E3%83%88+OR+%23idolist)
 - [idrip](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23idrip)
 - [アイビー](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A%E3%82%A2%E3%82%A4%E3%83%93%E3%83%BC)
