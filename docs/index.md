@@ -72,7 +72,8 @@
 - [水鈴遥](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E6%B0%B4%E9%88%B4%E9%81%A5)
 - [スーパーマカロニサラダ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9E%E3%82%AB%E3%83%AD%E3%83%8B%E3%82%B5%E3%83%A9%E3%83%80+OR+%23%E3%82%B9%E3%83%91%E3%83%9E%E3%82%AB)
 - [スターリットストーリー](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%AA%E3%83%83%E3%83%88%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC)
-- <a id="se" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E6%88%90%E5%BE%B3%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B9OG">成徳ロマンスOG</a>
+- <a id="se" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E6%95%B4%E5%BD%A2%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88+OR+%23%E3%82%8F%E3%81%9F%E3%81%84%E3%81%9A">整形アイドルプロジェクト</a>
+- [成徳ロマンスOG](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E6%88%90%E5%BE%B3%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B9OG)
 - [青藍ピリオド](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E8%97%8D%E3%83%94%E3%83%AA)
 - [世界で1番シンデレラ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E4%B8%96%E7%95%8C%E3%81%A71%E7%95%AA%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9)
 - [瀬口こころ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E7%80%AC%E5%8F%A3%E3%81%93%E3%81%93%E3%82%8D)
@@ -118,7 +119,8 @@
 - [100℃の世界](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23100%E5%BA%A6%E3%81%AE%E4%B8%96%E7%95%8C)
 - [HIRAETH.TOKYO](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%92%E3%83%A9%E3%82%A8%E3%82%B9%E3%83%88%E3%83%BC%E3%82%AD%E3%83%A7%E3%83%BC+OR+%23%E3%81%88%E3%81%82%E3%82%89%E3%81%B3%E3%82%85%E3%83%BC)
 - [ヒロインの心](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%AE%E5%BF%83)
-- <a id="hu" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%B5%E3%81%81%E3%81%A3%E3%81%98">FU(D)GE</a>
+- <a id="hu" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%B5%E3%81%81%E3%81%AB%E3%81%BE%E3%82%8B%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0+OR+%23%E3%81%B5%E3%81%81%E3%81%AB%E3%82%AD%E3%83%B3">ふぁにまるキングダム</a>
+- [FU(D)GE](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%B5%E3%81%81%E3%81%A3%E3%81%98)
 - [FandL](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23FandL)
 - [PHiZZ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23PHiZZ)
 - [プエラの絶対値](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%97%E3%82%A8%E3%83%A9%E3%81%AE%E7%B5%B6%E5%AF%BE%E5%80%A4)
@@ -131,7 +133,8 @@
 - [ブルーなままで](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%96%E3%83%AB%E3%83%BC%E3%81%AA%E3%81%BE%E3%81%BE%E3%81%A7)
 - [フレッシュ撮影会](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%95%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A5%E6%92%AE%E5%BD%B1%E4%BC%9A)
 - [Blossom Garden](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23BlossomGarden)
-- <a id="he" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%99%E3%83%93%E3%82%B9%E3%83%91">Baby inspire</a>
+- <a id="he" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E5%88%A5%E6%89%80%E3%81%82%E3%81%BF%E3%81%8B">別所あみか</a>
+- [Baby inspire](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%99%E3%83%93%E3%82%B9%E3%83%91)
 - <a id="ho" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%BC%E3%81%8F%E3%81%97%E3%81%AA">ぼくはまだしなない</a>
 - [ぽけっとファントム](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%BD%E3%81%91%E3%81%A3%E3%81%A8%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0)
 - [星屑ラビリンス](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E6%98%9F%E5%B1%91%E3%83%A9%E3%83%93%E3%83%AA%E3%83%B3%E3%82%B9)
