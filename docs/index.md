@@ -174,6 +174,7 @@
 - [Little Echo](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%AA%E3%83%88%E3%82%A8%E3%82%B3)
 - [Reverse Tokyo](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%AA%E3%83%90%E3%82%B9%E3%83%88)
 - [リベルナント](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%AA%E3%83%99%E3%83%AB%E3%83%8A%E3%83%B3%E3%83%88+OR+%23%E3%81%8A%E3%81%95%E3%82%93%E3%81%BD%E5%A8%98)
+- [Lily Muse](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%AA%E3%83%AA%E3%83%9F%E3%83%A5%E3%83%BC)
 - [Re:INCARNATION](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%8D)
 - [凛としたすずらん](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E5%87%9B%E3%81%A8%E3%81%97%E3%81%9F%E3%81%99%E3%81%9A%E3%82%89%E3%82%93)
 - <a id="ru" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%AB%E3%82%AF%E3%83%88%E3%82%A5%E3%83%9F">ルクトゥーMe</a>
