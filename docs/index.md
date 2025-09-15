@@ -142,7 +142,8 @@
 - [ぽけっとファントム](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%BD%E3%81%91%E3%81%A3%E3%81%A8%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0)
 - [星屑ラビリンス](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E6%98%9F%E5%B1%91%E3%83%A9%E3%83%93%E3%83%AA%E3%83%B3%E3%82%B9)
 - [bonbon ange](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23bonbonange)
-- <a id="ma" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%BE%E3%81%84%E3%81%BF%E3%83%BC%E6%92%AE%E5%BD%B1%E9%83%A8+OR+%23%E3%81%BE%E3%81%84%E3%81%BF%E3%83%BC">MyφMe(まいふぁいみー)</a>
+- <a id="ma" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23MyCriminalLovers">My Criminal Lovers’</a>
+- [MyφMe(まいふぁいみー)](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%BE%E3%81%84%E3%81%BF%E3%83%BC%E6%92%AE%E5%BD%B1%E9%83%A8+OR+%23%E3%81%BE%E3%81%84%E3%81%BF%E3%83%BC)
 - [MAGICAL SPEC](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%9E%E3%82%B8%E3%82%B9%E3%83%9A)
 - [瞬きのネビュラ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E7%9E%AC%E3%81%8D%E3%81%AE%E3%83%8D%E3%83%93%E3%83%A5%E3%83%A9+OR+%23%E3%81%BE%E3%81%9F%E3%83%8D)
 - <a id="mi" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%9F%E3%82%AA%E3%83%A9%E3%83%93">Mio Lavy</a>
