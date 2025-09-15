@@ -66,6 +66,7 @@
 - <a id="sa" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%AB%E3%82%AF%E3%83%88%E3%82%A5%E3%83%9F%E3%83%BC+OR+%23%E3%83%AB%E3%82%AF%E3%83%88%E3%82%A5%E3%83%9F">再生のルクトゥミー</a>
 - [酒井穂乃香](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E9%85%92%E4%BA%95%E7%A9%82%E4%B9%83%E9%A6%99)
 - [流石夏恋](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E6%B5%81%E7%9F%B3%E5%A4%8F%E6%81%8B)
+- [THAT's So](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%96%E3%81%A3%E3%81%A4%E3%81%9D%E3%83%BC)
 - <a id="si" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23SeedSPISTIL">SeedS/PISTIL</a>
 - [SEAF](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23SEAF)
 - [紫月はう](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E7%B4%AB%E6%9C%88%E3%81%AF%E3%81%86)
@@ -79,7 +80,8 @@
 - [青藍ピリオド](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E8%97%8D%E3%83%94%E3%83%AA)
 - [世界で1番シンデレラ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E4%B8%96%E7%95%8C%E3%81%A71%E7%95%AA%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9)
 - [瀬口こころ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E7%80%AC%E5%8F%A3%E3%81%93%E3%81%93%E3%82%8D)
-- <span id="so"></span><a id="ta" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23TIGHT">TIGHT</a>
+- <a id="so" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23SoRA">SoRA</a>
+- <a id="ta" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23TIGHT">TIGHT</a>
 - [たまプリ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%9F%E3%81%BE%E3%83%97%E3%83%AA+OR+%23%E3%81%9F%E3%81%BE%E3%81%B7%E3%82%8A)
 - <a id="ti" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23CHEERFUL">CHEERFUL</a>
 - [ちぇガッツ!](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%A1%E3%81%87%E3%82%AC%E3%83%83%E3%83%84)
