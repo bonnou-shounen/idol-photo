@@ -156,6 +156,7 @@
 - [milu milu!](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%9F%E3%83%AB%E3%83%9F%E3%83%AB)
 - <a id="mu" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%80%E3%80%9C%E3%81%B7%E3%82%8A">夢幻のプリューム</a>
 - <a id="me" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%A1%E3%82%A4%E3%83%A9%E3%83%96">May Love Rouge</a>
+- [MEMORI](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23MEMORI)
 - [メリーミューズ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%A1%E3%83%AA%E3%83%BC%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%BA)
 - [MERRYMO](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23MERRYMO)
 - [Melty R!bon](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%81%E3%82%8B%E3%82%8A%E3%81%BC)
