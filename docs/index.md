@@ -59,6 +59,7 @@
 - [Grim Assembler](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%B0%E3%83%AA%E3%83%9E%E3%82%B9)
 - <span id="ke"></span><a id="ko" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E5%B0%8F%E6%B3%89%E8%8A%B1%E6%81%8B">小泉花恋</a>
 - [Cosmo et Cute](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%B3%E3%82%B9%E3%83%A2%E3%82%A8%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%88)
+- [ConnectCall](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%93%E3%81%AD%E3%81%93%E3%82%8B)
 - [コノサキモ隣ニ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%B3%E3%83%8E%E3%82%B5%E3%82%AD%E3%83%A2%E9%9A%A3%E3%83%8B)
 - [コバルトブルーは白昼夢](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%B3%E3%83%90%E3%83%AB%E3%83%88%E3%83%96%E3%83%AB%E3%83%BC%E3%81%AF%E7%99%BD%E6%98%BC%E5%A4%A2)
 - [Cortile(コルティーレ)](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23Cortile)
