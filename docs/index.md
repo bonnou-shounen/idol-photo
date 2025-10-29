@@ -22,6 +22,7 @@
 - [雨沢凛(あめさわりん)](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E9%9B%A8%E6%B2%A2%E5%87%9B)
 - [ARIStoCRAT](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%A2%E3%83%AA%E3%82%AF%E3%83%A9+OR+%23ARIStoCRAT)
 - [アレキサンドライト](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%A2%E3%83%AC%E3%82%AD%E3%82%B5%E3%83%B3%E3%83%89%E3%83%A9%E3%82%A4%E3%83%88)
+- [Arcana Charm](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%82%E3%82%8B%E3%81%82%E3%82%80)
 - [アルカナビス](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%8A%E3%83%93%E3%82%B9)
 - [あわこい](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%82%E3%82%8F%E3%81%93%E3%81%84)
 - [&One(あんどわん)](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AF%E3%83%B3)
@@ -169,6 +170,7 @@
 - <a id="yu" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E6%B9%AF%E4%B8%8A%E3%82%8A%E8%8C%B6%E3%81%AE%E9%96%93+OR+%23%E6%B9%AF%E4%B8%8A%E3%81%8C%E3%82%8A%E8%8C%B6%E3%81%AE%E9%96%93">湯上り茶の間</a>
 - [unique imp](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%A6%E3%83%8B%E3%83%97)
 - [夢アドCiTRON](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E5%A4%A2%E3%82%A2%E3%83%89%E3%82%B7%E3%83%88%E3%83%AD%E3%83%B3)
+- [ゆめみどき](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%86%E3%82%81%E3%81%BF%E3%81%A9%E3%81%8D)
 - <a id="yo" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%88%E3%82%8B%E3%82%81%E3%82%8B">夜とメルク</a>
 - <a id="ra" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%D0%AFanaB">ЯanaB(らなびー)</a>
 - [Lanan](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23Lanan)
