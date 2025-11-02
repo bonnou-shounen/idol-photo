@@ -77,6 +77,7 @@
 - <a id="su" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E8%8F%85%E6%B2%BC%E8%8C%89%E7%A5%90">菅沼茉祐</a>
 - [水鈴遥](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E6%B0%B4%E9%88%B4%E9%81%A5)
 - [スーパーマカロニサラダ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9E%E3%82%AB%E3%83%AD%E3%83%8B%E3%82%B5%E3%83%A9%E3%83%80+OR+%23%E3%82%B9%E3%83%91%E3%83%9E%E3%82%AB)
+- [スターチスのラブレター](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%B9%E3%82%BF%E3%83%A9%E3%83%96)
 - [スターリットストーリー](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%AA%E3%83%83%E3%83%88%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC)
 - <a id="se" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E6%95%B4%E5%BD%A2%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88+OR+%23%E3%82%8F%E3%81%9F%E3%81%84%E3%81%9A">整形アイドルプロジェクト</a>
 - [成徳ロマンスOG](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E6%88%90%E5%BE%B3%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B9OG)
