@@ -76,6 +76,8 @@
 - [SEAF](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23SEAF)
 - [紫月はう](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E7%B4%AB%E6%9C%88%E3%81%AF%E3%81%86)
 - [シャルロット](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%AD%E3%83%83%E3%83%88)
+- [Jumping Kiss](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%B8%E3%83%A3%E3%83%B3%E3%82%AD%E3%82%B9)
+- [Sure](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23Sure)
 - [Jewel☆Garden-Sprout!!](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%B8%E3%83%A5%E3%82%A8%E3%82%AC%E3%82%B9%E3%83%97%E3%83%A9)
 - <a id="su" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E8%8F%85%E6%B2%BC%E8%8C%89%E7%A5%90">菅沼茉祐</a>
 - [水鈴遥](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E6%B0%B4%E9%88%B4%E9%81%A5)
@@ -151,6 +153,7 @@
 - <a id="ho" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%BC%E3%81%8F%E3%81%97%E3%81%AA">ぼくはまだしなない</a>
 - [ぽけっとファントム](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%BD%E3%81%91%E3%81%A3%E3%81%A8%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0)
 - [星屑ラビリンス](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E6%98%9F%E5%B1%91%E3%83%A9%E3%83%93%E3%83%AA%E3%83%B3%E3%82%B9)
+- [星宮天音](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E6%98%9F%E5%AE%AE%E5%A4%A9%E9%9F%B3)
 - [bonbon ange](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23bonbonange)
 - <a id="ma" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23MyCriminalLovers">My Criminal Lovers’</a>
 - [MyφMe(まいふぁいみー)](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%BE%E3%81%84%E3%81%BF%E3%83%BC%E6%92%AE%E5%BD%B1%E9%83%A8+OR+%23%E3%81%BE%E3%81%84%E3%81%BF%E3%83%BC)
