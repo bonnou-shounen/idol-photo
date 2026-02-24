@@ -9,6 +9,7 @@
 
 - <a id="a" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%A2%E3%82%A4%E3%82%A2%E3%82%A4%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC+OR+%23%E3%81%82%E3%81%84%E3%81%A6%E3%81%83%E3%81%8C">アイアイタイガー</a>
 - [あいでぃーる!!](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%82%E3%81%84%E3%81%A7%E3%81%83%E3%83%BC%E3%82%8B)
+- [IDOLSTAGE(練習生)](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%86)
 - [+idolist](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23idorist+OR+%23%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AA%E3%82%B9%E3%83%88)
 - [idrip](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23idrip)
 - [アイビー](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A%E3%82%A2%E3%82%A4%E3%83%93%E3%83%BC)
@@ -100,6 +101,7 @@
 - [世界で1番シンデレラ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E4%B8%96%E7%95%8C%E3%81%A71%E7%95%AA%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9)
 - [瀬口こころ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E7%80%AC%E5%8F%A3%E3%81%93%E3%81%93%E3%82%8D)
 - <a id="so" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23SoRA">SoRA</a>
+- [空色の恋(研究生)](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%BD%E3%83%A9%E3%82%B3%E3%82%A4)
 - <a id="ta" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23TIGHT">TIGHT</a>
 - [たまプリ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%9F%E3%81%BE%E3%83%97%E3%83%AA+OR+%23%E3%81%9F%E3%81%BE%E3%81%B7%E3%82%8A)
 - <a id="ti" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23CHEERFUL">CHEERFUL</a>

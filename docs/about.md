@@ -13,7 +13,7 @@
 ### お問いあわせ
 
 - [掲載の取り下げ](unpublish.md)
-- ご指摘などはXの meisou\_shounen 、またはGMailの bonnou.shounen にお願いします。
+- 連絡はXの meisou\_shounen 、またはGMailの bonnou.shounen までお願いします。
 
 ### 機材
 
