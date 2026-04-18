@@ -48,7 +48,8 @@
 - <a id="o" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E6%8E%A8%E3%81%95%E3%83%9B%E3%83%88">推さぬなら推させてみようホトトギス</a>
 - [おさんぽ娘](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%8A%E3%81%95%E3%82%93%E3%81%BD%E5%A8%98)
 - [乙花ゆい](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E4%B9%99%E8%8A%B1%E3%82%86%E3%81%84)
-- <a id="ka" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%8B%E3%82%8B%E3%81%A1%E3%81%B9%E3%81%84%E3%81%A8">かるちべいと</a>
+- <a id="ka" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%23%E7%89%87%E6%B2%BC%E6%97%A5%E5%A5%88%E5%AD%90">片沼日奈子</a>
+- [かるちべいと](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%8B%E3%82%8B%E3%81%A1%E3%81%B9%E3%81%84%E3%81%A8)
 - [CURTiA](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23CURTiA)
 - [Caress Van End](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%AB%E3%83%AC%E3%83%90%E3%83%B3)
 - <a id="ki" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+(%23%E6%93%AC%E4%BA%BA%E5%8C%96%E3%81%AB%E3%82%83%E3%82%93%E3%81%9F+OR+%23%E5%B8%82%E3%83%B6%E8%B0%B7%E5%87%AA%E7%B4%97)">擬人化にゃんた</a>
