@@ -81,6 +81,7 @@
 - [酒井穂乃香](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E9%85%92%E4%BA%95%E7%A9%82%E4%B9%83%E9%A6%99)
 - [流石夏恋](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E6%B5%81%E7%9F%B3%E5%A4%8F%E6%81%8B)
 - [THAT's So](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%96%E3%81%A3%E3%81%A4%E3%81%9D%E3%83%BC)
+- [札幌CANDYS](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E6%9C%AD%E5%B9%8CCANDYS)
 - <a id="si" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23SeedSPISTIL">SeedS/PISTIL</a>
 - [SEAF](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23SEAF)
 - [紫月はう](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E7%B4%AB%E6%9C%88%E3%81%AF%E3%81%86)
@@ -158,6 +159,7 @@
 - [Fortuness](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23Fortuness)
 - [プエラの絶対値](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%97%E3%82%A8%E3%83%A9%E3%81%AE%E7%B5%B6%E5%AF%BE%E5%80%A4)
 - [ぶっとび! パンデミック](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%B6%E3%81%A3%E3%83%91%E3%83%B3)
+- [フューチャーサイダー](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%81%E3%83%A3%E3%82%A4%E3%83%80%E3%83%BC)
 - [フラップアップ⤴︎](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%95%E3%83%A9%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97)
 - [Planet Merry](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%97%E3%83%A9%E3%83%A1%E3%83%AA)
 - [Blancanie](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23Blancanie)
@@ -182,6 +184,7 @@
 - <a id="mi" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%9F%E3%82%AA%E3%83%A9%E3%83%93">Mio Lavy</a>
 - [Mikoto](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23Mikoto)
 - [Misty Syrena](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23MistySyrena)
+- [早坂葵(水野ことり)](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E6%97%A9%E5%9D%82%E8%91%B5)
 - [ミニスカポリス](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%9F%E3%83%8B%E3%82%B9%E3%82%AB%E3%83%9D%E3%83%AA%E3%82%B9)
 - [ミライサガシ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%9F%E3%83%A9%E3%82%B5%E3%82%AC%E3%83%95%E3%82%A9%E3%83%88)
 - [みらくる★ふぉーぜ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%81%BF%E3%82%89%E3%81%8F%E3%82%8B%E3%81%B5%E3%81%89%E3%83%BC%E3%81%9C)
@@ -196,10 +199,12 @@
 - <a id="mo" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E6%9C%9B%E6%9C%88%E5%BD%A9%E4%B9%83">望月彩乃</a>
 - [MOFUTTO MATE](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%82%E3%81%B5%E3%81%A3%E3%81%A8)
 - [MofruRock](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%A2%E3%83%95%E3%83%AB%E3%83%AD%E3%83%83%E3%82%AF)
+- [ももあ](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%82%E3%82%82%E3%81%82)
 - [ももいろプロジェクト](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%82%E3%82%82%E3%81%84%E3%82%8D%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88)
 - <a id="ya" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+%23YMTK">YUM!-TUK!(やみつき)</a>
 - <a id="yu" href="https://x.com/search?f=live&q=from%3Ameisou_shounen+(%23%E3%83%A6%E3%83%BC%E3%82%BB%E3%83%96%E3%83%B3+OR+%23you17)">You/17(ユーセブン)</a>
 - [湯上り茶の間](https://x.com/search?f=live&q=from%3Ameisou_shounen+(%23%E6%B9%AF%E4%B8%8A%E3%82%8A%E8%8C%B6%E3%81%AE%E9%96%93+OR+%23%E6%B9%AF%E4%B8%8A%E3%81%8C%E3%82%8A%E8%8C%B6%E3%81%AE%E9%96%93))
+- [柚花うか](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E6%9F%9A%E8%8A%B1%E3%81%86%E3%81%8B)
 - [unique imp](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%83%A6%E3%83%8B%E3%83%97)
 - [夢アドCiTRON](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E5%A4%A2%E3%82%A2%E3%83%89%E3%82%B7%E3%83%88%E3%83%AD%E3%83%B3)
 - [ゆめみどき](https://x.com/search?f=live&q=from%3Ameisou_shounen+%23%E3%82%86%E3%82%81%E3%81%BF%E3%81%A9%E3%81%8D)
