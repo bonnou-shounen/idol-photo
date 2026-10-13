@@ -7,19 +7,15 @@
 | [え](#e) | [け](#ke) | [せ](#se) | [て](#te) | [ね](#ne) | [へ](#he) | [め](#me) |           | [れ](#re) |           |
 | [お](#o) | [こ](#ko) | [そ](#so) | [と](#to) | [の](#no) | [ほ](#ho) | [も](#mo) | [よ](#yo) | [ろ](#ro) |           |
 
-- <a id="a" href="https://x.com/search?q=from%3Ameisou_shounen+%23%E3%82%A2%E3%82%A4%E3%82%A2%E3%82%A4">ai*ai</a>
-- [アイアイタイガー](https://x.com/search?q=from%3Ameisou_shounen+(%23%E3%82%A2%E3%82%A4%E3%82%A2%E3%82%A4%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC+OR+%23%E3%81%82%E3%81%84%E3%81%A6%E3%81%83%E3%81%8C))
-- [AiVER.](https://x.com/search?q=from%3Ameisou_shounen+(%23AiVER+OR+%23%E3%82%A2%E3%82%A4%E3%83%B4%E3%82%A1%E3%83%BC))
+- <a id="a" href="https://x.com/search?q=from%3Ameisou_shounen+(%23%E3%82%A2%E3%82%A4%E3%82%A2%E3%82%A4%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC+OR+%23%E3%81%82%E3%81%84%E3%81%A6%E3%81%83%E3%81%8C)">アイアイタイガー</a>
 - [あいでぃーる!!](https://x.com/search?q=from%3Ameisou_shounen+%23%E3%81%82%E3%81%84%E3%81%A7%E3%81%83%E3%83%BC%E3%82%8B)
 - [IDOLSTAGE(練習生)](https://x.com/search?q=from%3Ameisou_shounen+%23%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%86)
-- [+idolist](https://x.com/search?q=from%3Ameisou_shounen+(%23idorist+OR+%23%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AA%E3%82%B9%E3%83%88))
+- [+idolist](https://x.com/search?q=from%3Ameisou_shounen+(%23idolist+OR+%23%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AA%E3%82%B9%E3%83%88))
 - [idrip](https://x.com/search?q=from%3Ameisou_shounen+%23idrip)
-- [アイビー](https://x.com/search?q=from%3Ameisou_shounen+%23%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A%E3%82%A2%E3%82%A4%E3%83%93%E3%83%BC)
 - [あいり〜む](https://x.com/search?q=from%3Ameisou_shounen+%23%E3%81%82%E3%81%84%E3%82%8A%E3%80%9C%E3%82%80)
 - [青空ダイアリー](https://x.com/search?q=from%3Ameisou_shounen+%23%E9%9D%92%E7%A9%BA%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AA%E3%83%BC)
 - [青山Rabness](https://x.com/search?q=from%3Ameisou_shounen+%23%E9%9D%92%E3%83%A9%E3%83%93)
 - [アクアウィステリア](https://x.com/search?q=from%3Ameisou_shounen+(%23%E3%82%A2%E3%82%AF%E3%82%A2%E3%82%A6%E3%82%A3%E3%82%B9%E3%83%86%E3%83%AA%E3%82%A2+OR+%23%E3%82%A2%E3%82%AF%E3%82%A6%E3%82%A3%E3%82%B9))
-- [AZの理由(あずのりゆう)](https://x.com/search?q=from%3Ameisou_shounen+%23AZ%E3%81%AE%E7%90%86%E7%94%B1)
 - [あでぃくと](https://x.com/search?q=from%3Ameisou_shounen+%23%E3%81%82%E3%81%A7%E3%81%83%E3%81%8F%E3%81%A8)
 - [アポストロフィ](https://x.com/search?q=from%3Ameisou_shounen+%23%E3%82%A2%E3%83%9D%E3%82%B9%E3%83%88%E3%83%AD%E3%83%95%E3%82%A3)
 - [あまりりす](https://x.com/search?q=from%3Ameisou_shounen+%23%E3%81%82%E3%81%BE%E3%82%8A%E3%82%8A%E3%81%99)
@@ -30,12 +26,8 @@
 - [Arcana Charm](https://x.com/search?q=from%3Ameisou_shounen+%23%E3%81%82%E3%82%8B%E3%81%82%E3%82%80)
 - [アルカナビス](https://x.com/search?q=from%3Ameisou_shounen+%23%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%8A%E3%83%93%E3%82%B9)
 - [あわこい](https://x.com/search?q=from%3Ameisou_shounen+%23%E3%81%82%E3%82%8F%E3%81%93%E3%81%84)
-- [antares](https://x.com/search?q=from%3Ameisou_shounen+%23antares)
 - [&One(あんどわん)](https://x.com/search?q=from%3Ameisou_shounen+%23%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AF%E3%83%B3)
-- <a id="i" href="https://x.com/search?q=from%3Ameisou_shounen+%23%E7%95%B0%E5%9B%BD%E3%81%AE%E3%83%AB%E3%83%9F%E3%83%8A%E3%83%AA%E3%82%A2">異国のルミナリア</a>
-- [異世界アイドル☆パラレルパレード](https://x.com/search?q=from%3Ameisou_shounen+%23%E3%83%91%E3%83%A9%E3%83%91%E3%83%AC)
-- [1学期の前髪](https://x.com/search?q=from%3Ameisou_shounen+%23%E3%81%BE%E3%81%88%E3%81%8C%E3%81%BF%E3%81%A1%E3%82%83%E3%82%93)
-- [いちごみるく色に染まりたい。](https://x.com/search?q=from%3Ameisou_shounen+%23%E3%81%84%E3%81%A1%E3%81%BF%E3%82%8B)
+- <a id="i" href="https://x.com/search?q=from%3Ameisou_shounen+%23%E3%81%84%E3%81%A1%E3%81%BF%E3%82%8B">いちごみるく色に染まりたい。</a>
 - [いつかの夜に僕たちが、](https://x.com/search?q=from%3Ameisou_shounen+%23%E3%81%84%E3%81%A4%E3%81%8B%E3%81%AE%E5%A4%9C%E3%81%AB%E5%83%95%E3%81%9F%E3%81%A1%E3%81%8C)
 - [Innocent Fairy](https://x.com/search?q=from%3Ameisou_shounen+%23%E3%81%84%E3%81%B5%E3%81%97%E3%82%87%E3%81%A3%E3%81%A8)
 - [if only...](https://x.com/search?q=from%3Ameisou_shounen+%23%E3%81%84%E3%81%B5%E3%81%8A%E3%82%93)
@@ -125,7 +117,7 @@
 - [東京おとめ太鼓](https://x.com/search?q=from%3Ameisou_shounen+%23%E3%81%8A%E3%81%A8%E3%82%81%E3%83%95%E3%82%A9%E3%83%88)
 - [東京遊泳ギャラクシー](https://x.com/search?q=from%3Ameisou_shounen+%23%E6%9D%B1%E4%BA%AC%E9%81%8A%E6%B3%B3%E3%82%AE%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%BC)
 - [道玄坂69](https://x.com/search?q=from%3Ameisou_shounen+%23%E9%81%93%E7%8E%84%E5%9D%8269)
-- [ど〜げんざか69](https://x.com/search?q=from%3Ameisou_shounen+%23%E3%81%B2%E3%82%89%E3%81%8C%E3%81%AA%E3%81%A9%E3%80%9C%E3%81%92%E3%82%93)
+- [ど〜げんざか69](https://x.com/search?q=from%3Ameisou_shounen+(%23%E3%81%B2%E3%82%89%E3%81%8C%E3%81%AA%E3%81%A9%E3%80%9C%E3%81%92%E3%82%93+OR+%E3%81%B2%E3%82%89%E3%81%8C%E3%81%AA%E3%81%A9%EF%BD%9E%E3%81%92%E3%82%93))
 - [.Link](https://x.com/search?q=from%3Ameisou_shounen+%23%E3%81%A9%E3%81%A3%E3%81%A8%E3%82%8A%E3%82%93%E3%81%8F)
 - [DollyPink](https://x.com/search?q=from%3Ameisou_shounen+%23DollyPink)
 - [とわる](https://x.com/search?q=from%3Ameisou_shounen+%23%E3%81%A8%E3%82%8F%E3%82%8B)
