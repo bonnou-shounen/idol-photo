@@ -110,7 +110,8 @@
 - [ちぇガッツ!](https://x.com/search?q=from%3Ameisou_shounen+%23%E3%81%A1%E3%81%87%E3%82%AC%E3%83%83%E3%83%84)
 - <a id="tu" href="https://x.com/search?q=from%3Ameisou_shounen+%23Toolto">Tool to</a>
 - [ついんそうる](https://x.com/search?q=from%3Ameisou_shounen+%23%E3%81%A4%E3%81%84%E3%82%93%E3%81%9D%E3%81%86%E3%82%8B)
-- <a id="te" href="https://x.com/search?q=from%3Ameisou_shounen+%23%E5%A4%A9%E6%B3%A3">天泣</a>
+- <a id="te" href="https://x.com/search?q=from%3Ameisou_shounen+%23%E3%83%86%E3%82%A3%E3%82%A2%E3%83%91%E3%83%AC">Tiara Palette</a>
+- [天泣](https://x.com/search?q=from%3Ameisou_shounen+%23%E5%A4%A9%E6%B3%A3)
 - [天空のシラバス](https://x.com/search?q=from%3Ameisou_shounen+%23%E5%A4%A9%E7%A9%BA%E3%81%AE%E3%82%B7%E3%83%A9%E3%83%90%E3%82%B9)
 - [天使突抜ニ読ミ](https://x.com/search?q=from%3Ameisou_shounen+%23%E3%83%84%E3%82%AD%E3%83%A8%E3%83%9F)
 - <a id="to" href="https://x.com/search?q=from%3Ameisou_shounen+%23%E3%83%88%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89">トイランド</a>
@@ -183,6 +184,7 @@
 - [ぽけっとファントム](https://x.com/search?q=from%3Ameisou_shounen+%23%E3%81%BD%E3%81%91%E3%81%A3%E3%81%A8%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0)
 - [星屑ラビリンス](https://x.com/search?q=from%3Ameisou_shounen+%23%E6%98%9F%E5%B1%91%E3%83%A9%E3%83%93%E3%83%AA%E3%83%B3%E3%82%B9)
 - [星宮天音](https://x.com/search?q=from%3Ameisou_shounen+%23%E6%98%9F%E5%AE%AE%E5%A4%A9%E9%9F%B3)
+- [HoLo!HaLo!](https://x.com/search?q=from%3Ameisou_shounen+%23%E3%83%9B%E3%83%AD%E3%83%8F%E3%83%AD)
 - [bonbon ange](https://x.com/search?q=from%3Ameisou_shounen+%23bonbonange)
 - <a id="ma" href="https://x.com/search?q=from%3Ameisou_shounen+%23MyCriminalLovers">My Criminal Lovers’</a>
 - [MyφMe(まいふぁいみー)](https://x.com/search?q=from%3Ameisou_shounen+(%23%E3%81%BE%E3%81%84%E3%81%BF%E3%83%BC%E6%92%AE%E5%BD%B1%E9%83%A8+OR+%23%E3%81%BE%E3%81%84%E3%81%BF%E3%83%BC))
